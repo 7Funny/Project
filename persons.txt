@@ -1,0 +1,3 @@
+Dast,Sul,Akimovich,Male,173,25.06.2001
+Kim,Alina,Alexandrovna,Female,174,31.12.1996
+Li,Nano,Stepanovich,Male,174,30.12.1974
